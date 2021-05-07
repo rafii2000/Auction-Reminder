@@ -1,0 +1,21 @@
+{
+    "frequency": {
+        "freq_hour": "01",
+        "freq_minute": "00",
+        "freq_second": "00"
+    },
+    "start": {
+        "start_hour": "00",
+        "start_minute": "40",
+        "start_second": "00"
+    },
+    "end": {
+        "end_hour": "23",
+        "end_minute": "59",
+        "end_second": "59"
+    },
+    "remind": {
+        "remind_minute": "01",
+        "remind_second": "00"
+    }
+}

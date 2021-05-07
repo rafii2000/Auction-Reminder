@@ -1,0 +1,9 @@
+*.un~
+*.swp
+__pycache__/
+build/
+dist/
+*.exe
+*.spec
+.idea/
+venv/
